@@ -1,5 +1,15 @@
+# Mac OS X
+.DS_Store
+*.swp
+
+# IntelliJ
+.idea/
+*.iml*
+*.ipr
+
 # Compiled class file
 *.class
+target/
 
 # Log file
 *.log
